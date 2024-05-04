@@ -50,3 +50,12 @@
     background: gray;
     cursor:pointer; 
 }
+
+.hero-connect:hover
+{
+    border:2px solid black;
+}
+.hero-resume:hover
+{
+    border-color:#B923E1;
+}
